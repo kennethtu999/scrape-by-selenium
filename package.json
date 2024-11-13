@@ -1,0 +1,17 @@
+{
+  "name": "scrape-by-selenium",
+  "version": "1.0.0",
+  "main": "scrape.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "node scrape.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "selenium-webdriver": "^4.26.0"
+  }
+}
